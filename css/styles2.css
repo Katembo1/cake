@@ -1,0 +1,22 @@
+
+#cart{
+    visibility:hidden;
+}
+#icon{
+    background-color:orange;
+    color:white;
+    margin:10px;
+    height:3em;
+    width:3em;
+    display:flex;
+   position:relative;
+   left:90%;
+   align-items:center;
+   justify-content:center;
+   border-radius:40%;
+
+}
+#icn{
+    display:flex;
+    
+}
